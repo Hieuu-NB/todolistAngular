@@ -1,0 +1,24 @@
+.wrapper{
+  margin-left: 35%;
+
+}
+.box{
+  width: 300px;
+}
+.box-1{
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  border-bottom: 1px solid red;
+}
+.box-1 > div,input,button{
+  width: 40px;
+}
+.input1{
+  width: 80%;
+  border: 1px solid red;
+  border-radius: 5px;
+}
+.input2{
+  width: 50px;
+}

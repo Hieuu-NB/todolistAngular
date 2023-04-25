@@ -1,0 +1,19 @@
+.wrapper{
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  border: 1px solid red;
+}
+.wrapper div{
+  margin: 5px;
+}
+.btn-mid{
+  display: flex;
+  justify-content: space-between;
+}
+.btn-mid button{
+  height: 40px;
+}
+.item :hover{
+  background-color: red;
+}
